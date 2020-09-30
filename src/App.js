@@ -11,7 +11,7 @@ function App() {
 const FLASHCARD_DATA = [
   {
     id: 1,
-    question: "What is 2+2?",
+    question: "What is 2+1?",
     options: [
       '2',
       '3',
